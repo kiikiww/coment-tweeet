@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tweepy
+python-dotenv
+requests
+jinja2
+python-multipart
+websockets
